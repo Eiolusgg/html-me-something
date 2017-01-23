@@ -1,0 +1,31 @@
+
+body {
+    font-family: Tahoma;
+    background-color: #1C657E
+}
+
+h1 {
+    border: 1px solid black;
+    background-color: whitesmoke;
+    margin-top: 40px;
+    margin-bottom: 30px;
+    margin-right: 985px;
+    margin-left: 80px;
+    padding-top: 10px;
+    padding-right: 10px;
+    padding-bottom: 10px;
+    padding-left: 10px;
+}
+
+h2 {
+    border: 1px solid black;
+    background-color: whitesmoke;
+    margin-top: 40px;
+    margin-bottom: 30px;
+    margin-right: 1150px;
+    margin-left: 40px;
+    padding-top: 10px;
+    padding-right: 10px;
+    padding-bottom: 10px;
+    padding-left: 10px;
+}
